@@ -9,3 +9,4 @@ bin
 ant_build
 eclipse_build
 ide_build
+proguard.cfg
