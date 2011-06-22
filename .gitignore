@@ -1,0 +1,11 @@
+.DS_STORE
+.idea/**
+*.iml
+local.properties
+bin/classes
+gen
+out
+bin
+ant_build
+eclipse_build
+ide_build
