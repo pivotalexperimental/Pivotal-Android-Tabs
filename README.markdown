@@ -13,3 +13,6 @@ This simple example Android project illustrates how to use tabs in an Android ap
 * [Pivot Tyler Schultz](https://pivotallabs.com/users/tyler/blog) ([github](https://github.com/tylerschultz)) -- contributor
 * [Pivot Joe Moore](https://pivotallabs.com/users/joe/blog) ([github](https://github.com/joemoore)) -- contributor
 
+
+### Credits
+* Tab styling xml inspired by [this example project](http://code.google.com/p/android-custom-tabs)
